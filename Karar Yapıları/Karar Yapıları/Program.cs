@@ -54,6 +54,8 @@ namespace Karar_Yapıları
                     Console.WriteLine("Pazar");
                     break;
 
+
+
             }
 
         }
