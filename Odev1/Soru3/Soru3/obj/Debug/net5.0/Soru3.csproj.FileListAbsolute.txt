@@ -1,0 +1,15 @@
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.exe
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.deps.json
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.dll
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\ref\Soru3.dll
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\bin\Debug\net5.0\Soru3.pdb
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.dll
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\ref\Soru3.dll
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.pdb
+C:\Users\Onur\Desktop\Patika C#\Odev1\Soru3\Soru3\obj\Debug\net5.0\Soru3.genruntimeconfig.cache
