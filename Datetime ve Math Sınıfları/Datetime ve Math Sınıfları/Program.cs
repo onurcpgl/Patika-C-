@@ -6,7 +6,7 @@ namespace Datetime_ve_Math_Sınıfları
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Worssld!");
         }
     }
 }
