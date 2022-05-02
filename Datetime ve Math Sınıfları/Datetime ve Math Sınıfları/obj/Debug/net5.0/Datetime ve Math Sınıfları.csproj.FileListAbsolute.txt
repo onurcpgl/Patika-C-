@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.exe
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.deps.json
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.dll
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\ref\Datetime ve Math Sınıfları.dll
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\bin\Debug\net5.0\Datetime ve Math Sınıfları.pdb
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.dll
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\ref\Datetime ve Math Sınıfları.dll
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.pdb
+C:\Users\Onur\Desktop\Patika C#\Datetime ve Math Sınıfları\Datetime ve Math Sınıfları\obj\Debug\net5.0\Datetime ve Math Sınıfları.genruntimeconfig.cache
