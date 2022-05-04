@@ -1,5 +1,5 @@
 # Patika-C-
-##C# 101 baslangıç eğitimi #Patika
+## C# 101 baslangıç eğitimi #Patika
 
 #Deneme
 
