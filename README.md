@@ -1,6 +1,6 @@
 # Patika-C-
 ## C# 101 baslangıç eğitimi #Patika
 
-#Deneme
+# *italic* Patika.dev C# 101 baslangıç eğitimi ödevleri ve çalışmalarım.
 
 
