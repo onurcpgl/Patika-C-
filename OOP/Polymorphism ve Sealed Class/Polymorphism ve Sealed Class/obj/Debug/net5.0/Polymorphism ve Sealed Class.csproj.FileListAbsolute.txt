@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.exe
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.deps.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\ref\Polymorphism ve Sealed Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\bin\Debug\net5.0\Polymorphism ve Sealed Class.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\ref\Polymorphism ve Sealed Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Polymorphism ve Sealed Class\Polymorphism ve Sealed Class\obj\Debug\net5.0\Polymorphism ve Sealed Class.genruntimeconfig.cache
