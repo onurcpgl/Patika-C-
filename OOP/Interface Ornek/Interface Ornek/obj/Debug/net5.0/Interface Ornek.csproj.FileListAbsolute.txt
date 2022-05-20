@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.exe
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.deps.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\ref\Interface Ornek.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\bin\Debug\net5.0\Interface Ornek.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\ref\Interface Ornek.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Interface Ornek\Interface Ornek\obj\Debug\net5.0\Interface Ornek.genruntimeconfig.cache
