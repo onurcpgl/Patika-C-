@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.exe
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.deps.json
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\ref\Encapsulation ve Property Kavramı.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\bin\Debug\net5.0\Encapsulation ve Property Kavramı.pdb
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\ref\Encapsulation ve Property Kavramı.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.pdb
+C:\Users\Onur\Desktop\Patika C#\Class\Encapsulation ve Property Kavramı\Encapsulation ve Property Kavramı\obj\Debug\net5.0\Encapsulation ve Property Kavramı.genruntimeconfig.cache
