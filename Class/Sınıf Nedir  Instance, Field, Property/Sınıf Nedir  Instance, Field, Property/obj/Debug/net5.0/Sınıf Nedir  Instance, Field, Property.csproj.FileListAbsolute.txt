@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.exe
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.deps.json
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\ref\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\bin\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\ref\Sınıf Nedir  Instance, Field, Property.dll
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.pdb
+C:\Users\Onur\Desktop\Patika C#\Class\Sınıf Nedir  Instance, Field, Property\Sınıf Nedir  Instance, Field, Property\obj\Debug\net5.0\Sınıf Nedir  Instance, Field, Property.genruntimeconfig.cache
