@@ -1,0 +1,16 @@
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.exe
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.deps.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.runtimeconfig.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.runtimeconfig.dev.json
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\ref\Abstract Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\bin\Debug\net5.0\Abstract Class.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\ref\Abstract Class.dll
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.pdb
+C:\Users\Onur\Desktop\Patika C#\OOP\Abstract Class\Abstract Class\obj\Debug\net5.0\Abstract Class.genruntimeconfig.cache
