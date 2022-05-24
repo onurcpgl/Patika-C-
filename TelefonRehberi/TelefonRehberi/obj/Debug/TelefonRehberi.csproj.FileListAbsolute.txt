@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\Onur\Desktop\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
