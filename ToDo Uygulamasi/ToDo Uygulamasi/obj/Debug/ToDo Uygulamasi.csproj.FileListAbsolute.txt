@@ -1,0 +1,7 @@
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\obj\Debug\ToDo Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\obj\Debug\ToDo Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\bin\Debug\ToDo Uygulamasi.exe.config
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\bin\Debug\ToDo Uygulamasi.exe
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\bin\Debug\ToDo Uygulamasi.pdb
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\obj\Debug\ToDo Uygulamasi.exe
+C:\Users\Onur\Desktop\Patika C#\ToDo Uygulamasi\ToDo Uygulamasi\obj\Debug\ToDo Uygulamasi.pdb
